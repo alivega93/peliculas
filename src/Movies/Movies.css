@@ -1,0 +1,13 @@
+/* styles.css */
+.titles {
+    font-size: 50px;
+    color: red;
+}
+
+.cardHover {
+    transition: transform0.3s;
+}
+
+.cardHover:hover {
+    transform: scale(1.1);
+}
